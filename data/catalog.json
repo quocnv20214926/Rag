@@ -1,0 +1,4284 @@
+[
+ {
+  "name": "Tivi Sora Vivid 32 inch V32",
+  "sku": "SR-TVV32",
+  "price": 5220000,
+  "specs": [
+   "Kích thước màn hình: 32 inch",
+   "Công nghệ màn hình: LED 4K",
+   "Tần số quét: 60 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 20 W",
+   "Cổng HDMI: 3 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 70 x 46 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvv32",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora Vivid 43 inch V43",
+  "sku": "SR-TVV43",
+  "price": 6960000,
+  "specs": [
+   "Kích thước màn hình: 43 inch",
+   "Công nghệ màn hình: LED 4K",
+   "Tần số quét: 60 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 20 W",
+   "Cổng HDMI: 3 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 95 x 62 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvv43",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora Vivid 50 inch V50",
+  "sku": "SR-TVV50",
+  "price": 8340000,
+  "specs": [
+   "Kích thước màn hình: 50 inch",
+   "Công nghệ màn hình: LED 4K",
+   "Tần số quét: 60 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 20 W",
+   "Cổng HDMI: 3 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 110 x 72 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvv50",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora Vivid 55 inch V55",
+  "sku": "SR-TVV55",
+  "price": 9460000,
+  "specs": [
+   "Kích thước màn hình: 55 inch",
+   "Công nghệ màn hình: LED 4K",
+   "Tần số quét: 60 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 121 x 80 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvv55",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora QLED 50 inch Q50",
+  "sku": "SR-TVQ50",
+  "price": 11590000,
+  "specs": [
+   "Kích thước màn hình: 50 inch",
+   "Công nghệ màn hình: QLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 20 W",
+   "Cổng HDMI: 3 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 110 x 72 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvq50",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora QLED 55 inch Q55",
+  "sku": "SR-TVQ55",
+  "price": 13140000,
+  "specs": [
+   "Kích thước màn hình: 55 inch",
+   "Công nghệ màn hình: QLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 121 x 80 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvq55",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora QLED 65 inch Q65",
+  "sku": "SR-TVQ65",
+  "price": 16730000,
+  "specs": [
+   "Kích thước màn hình: 65 inch",
+   "Công nghệ màn hình: QLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 143 x 94 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvq65",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora QLED 75 inch Q75",
+  "sku": "SR-TVQ75",
+  "price": 20940000,
+  "specs": [
+   "Kích thước màn hình: 75 inch",
+   "Công nghệ màn hình: QLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Kích thước có chân đế khoảng 165 x 109 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvq75",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora OLED 55 inch O55",
+  "sku": "SR-TVO55",
+  "price": 19980000,
+  "specs": [
+   "Kích thước màn hình: 55 inch",
+   "Công nghệ màn hình: OLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": "tấm nền OLED bảo hành 36 tháng",
+  "notes": [
+   "Kích thước có chân đế khoảng 121 x 80 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvo55",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora OLED 65 inch O65",
+  "sku": "SR-TVO65",
+  "price": 25430000,
+  "specs": [
+   "Kích thước màn hình: 65 inch",
+   "Công nghệ màn hình: OLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": "tấm nền OLED bảo hành 36 tháng",
+  "notes": [
+   "Kích thước có chân đế khoảng 143 x 94 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvo65",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Tivi Sora OLED 75 inch O75",
+  "sku": "SR-TVO75",
+  "price": 31840000,
+  "specs": [
+   "Kích thước màn hình: 75 inch",
+   "Công nghệ màn hình: OLED 4K",
+   "Tần số quét: 120 Hz",
+   "Hệ điều hành: Sora OS 6",
+   "Công suất loa: 40 W",
+   "Cổng HDMI: 4 cổng (1 cổng eARC)"
+  ],
+  "warranty": 24,
+  "extra_warranty": "tấm nền OLED bảo hành 36 tháng",
+  "notes": [
+   "Kích thước có chân đế khoảng 165 x 109 cm.",
+   "Hỗ trợ điều khiển giọng nói tiếng Việt và chiếu màn hình từ điện thoại."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-TIVI",
+  "section": "sr-tvo75",
+  "category": "Tivi Sora"
+ },
+ {
+  "name": "Điện thoại Sora Lite A3",
+  "sku": "SR-DT01",
+  "price": 2690000,
+  "specs": [
+   "RAM 4 GB, bộ nhớ trong 64 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 50 MP",
+   "Hỗ trợ 2 sim, 4G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 18 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung.",
+   "Sản phẩm hỗ trợ trả góp 0% cho đơn hàng từ 2.000.000 đồng."
+  ],
+  "conflict": "C5-tra-gop",
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt01",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Lite A5",
+  "sku": "SR-DT02",
+  "price": 3490000,
+  "specs": [
+   "RAM 6 GB, bộ nhớ trong 128 GB",
+   "Màn hình 6,5 inch",
+   "Camera chính 200 MP",
+   "Hỗ trợ 2 sim, 4G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 25 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt02",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Nova 7",
+  "sku": "SR-DT03",
+  "price": 5990000,
+  "specs": [
+   "RAM 8 GB, bộ nhớ trong 128 GB",
+   "Màn hình 6,6 inch",
+   "Camera chính 50 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 33 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt03",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Nova 7 Plus",
+  "sku": "SR-DT04",
+  "price": 7490000,
+  "specs": [
+   "RAM 8 GB, bộ nhớ trong 256 GB",
+   "Màn hình 6,5 inch",
+   "Camera chính 64 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5200 mAh, sạc nhanh 45 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt04",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Nova 8",
+  "sku": "SR-DT05",
+  "price": 8990000,
+  "specs": [
+   "RAM 12 GB, bộ nhớ trong 256 GB",
+   "Màn hình 6,6 inch",
+   "Camera chính 64 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 45 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt05",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Prime 12",
+  "sku": "SR-DT06",
+  "price": 15990000,
+  "specs": [
+   "RAM 12 GB, bộ nhớ trong 256 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 50 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 4800 mAh, sạc nhanh 65 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt06",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Prime 12 Pro",
+  "sku": "SR-DT07",
+  "price": 21990000,
+  "specs": [
+   "RAM 16 GB, bộ nhớ trong 512 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 50 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 80 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt07",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Prime Fold",
+  "sku": "SR-DT08",
+  "price": 36990000,
+  "specs": [
+   "RAM 16 GB, bộ nhớ trong 512 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 108 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 4400 mAh, sạc nhanh 45 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt08",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Prime Flip",
+  "sku": "SR-DT09",
+  "price": 22990000,
+  "specs": [
+   "RAM 12 GB, bộ nhớ trong 256 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 200 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 3900 mAh, sạc nhanh 33 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt09",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Active X",
+  "sku": "SR-DT10",
+  "price": 9490000,
+  "specs": [
+   "RAM 8 GB, bộ nhớ trong 256 GB",
+   "Màn hình 6,5 inch",
+   "Camera chính 64 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 6000 mAh, sạc nhanh 33 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt10",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Lite A3s",
+  "sku": "SR-DT11",
+  "price": 2990000,
+  "specs": [
+   "RAM 4 GB, bộ nhớ trong 128 GB",
+   "Màn hình 6,5 inch",
+   "Camera chính 108 MP",
+   "Hỗ trợ 2 sim, 4G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5000 mAh, sạc nhanh 18 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt11",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Điện thoại Sora Nova 8 Pro",
+  "sku": "SR-DT12",
+  "price": 11990000,
+  "specs": [
+   "RAM 12 GB, bộ nhớ trong 512 GB",
+   "Màn hình 6,7 inch",
+   "Camera chính 64 MP",
+   "Hỗ trợ 2 sim, 5G"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin 5100 mAh, sạc nhanh 65 W.",
+   "Bảo hành pin 6 tháng theo chính sách chung."
+  ],
+  "conflict": null,
+  "brand": "Sora",
+  "doc_id": "SP-DIENTHOAI",
+  "section": "sr-dt12",
+  "category": "Điện thoại Sora"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S6 Lite",
+  "sku": "SR-TAB01",
+  "price": 6490000,
+  "specs": [
+   "Màn hình 10.4 inch",
+   "RAM 6 GB",
+   "Pin 8000 mAh",
+   "Không hỗ trợ bút"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab01",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S7",
+  "sku": "SR-TAB02",
+  "price": 9990000,
+  "specs": [
+   "Màn hình 11 inch",
+   "RAM 8 GB",
+   "Pin 8000 mAh",
+   "Hỗ trợ bút cảm ứng"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab02",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S7 FE",
+  "sku": "SR-TAB03",
+  "price": 8490000,
+  "specs": [
+   "Màn hình 12.4 inch",
+   "RAM 6 GB",
+   "Pin 11200 mAh",
+   "Hỗ trợ bút cảm ứng"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab03",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S8",
+  "sku": "SR-TAB04",
+  "price": 14990000,
+  "specs": [
+   "Màn hình 11 inch",
+   "RAM 6 GB",
+   "Pin 11200 mAh",
+   "Hỗ trợ bút cảm ứng"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab04",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S8 Plus",
+  "sku": "SR-TAB05",
+  "price": 19990000,
+  "specs": [
+   "Màn hình 12.4 inch",
+   "RAM 4 GB",
+   "Pin 11200 mAh",
+   "Hỗ trợ bút cảm ứng"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab05",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab Kids",
+  "sku": "SR-TAB06",
+  "price": 3990000,
+  "specs": [
+   "Màn hình 8.7 inch",
+   "RAM 6 GB",
+   "Pin 8000 mAh",
+   "Không hỗ trợ bút"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab06",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab A9",
+  "sku": "SR-TAB07",
+  "price": 4990000,
+  "specs": [
+   "Màn hình 11 inch",
+   "RAM 8 GB",
+   "Pin 11200 mAh",
+   "Không hỗ trợ bút"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab07",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính bảng Sora Tab S8 Ultra",
+  "sku": "SR-TAB08",
+  "price": 26990000,
+  "specs": [
+   "Màn hình 14.6 inch",
+   "RAM 6 GB",
+   "Pin 8000 mAh",
+   "Hỗ trợ bút cảm ứng"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Bảo hành pin 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-MAYTINHBANG",
+  "section": "sr-tab08",
+  "category": "Máy tính bảng Sora Tab"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Go 14",
+  "sku": "LM-G14",
+  "price": 9990000,
+  "specs": [
+   "CPU Core i3",
+   "RAM 8 GB",
+   "SSD 256 GB",
+   "Trọng lượng 1.3 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-g14",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Go 15",
+  "sku": "LM-G15",
+  "price": 11490000,
+  "specs": [
+   "CPU Core i5",
+   "RAM 8 GB",
+   "SSD 512 GB",
+   "Trọng lượng 2.1 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-g15",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Air 13",
+  "sku": "LM-A13",
+  "price": 16990000,
+  "specs": [
+   "CPU Core Ultra 5",
+   "RAM 16 GB",
+   "SSD 512 GB",
+   "Trọng lượng 1.4 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Tặng balo và chuột không dây khi mua trong tháng 10/2025."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-a13",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Air 14",
+  "sku": "LM-A14",
+  "price": 19490000,
+  "specs": [
+   "CPU Core Ultra 5",
+   "RAM 16 GB",
+   "SSD 512 GB",
+   "Trọng lượng 2.1 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 24,
+  "conflict": "C2-lumio-air",
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Tặng balo và chuột không dây khi mua trong tháng 10/2025."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-a14",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Air 15",
+  "sku": "LM-A15",
+  "price": 21990000,
+  "specs": [
+   "CPU Core Ultra 7",
+   "RAM 16 GB",
+   "SSD 1024 GB",
+   "Trọng lượng 1.6 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Tặng balo và chuột không dây khi mua trong tháng 10/2025."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-a15",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Pro 14",
+  "sku": "LM-P14",
+  "price": 29990000,
+  "specs": [
+   "CPU Core Ultra 7",
+   "RAM 32 GB",
+   "SSD 1024 GB",
+   "Trọng lượng 1.2 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 24,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-p14",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Pro 16",
+  "sku": "LM-P16",
+  "price": 37990000,
+  "specs": [
+   "CPU Core Ultra 9",
+   "RAM 32 GB",
+   "SSD 1024 GB",
+   "Trọng lượng 1.8 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 24,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-p16",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Pro 16 Creator",
+  "sku": "LM-P16C",
+  "price": 49990000,
+  "specs": [
+   "CPU Core Ultra 9",
+   "RAM 64 GB",
+   "SSD 2048 GB",
+   "Trọng lượng 1.2 kg",
+   "Màn hình OLED"
+  ],
+  "warranty": 24,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-p16c",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Go 14 Student",
+  "sku": "LM-G14S",
+  "price": 8490000,
+  "specs": [
+   "CPU Core i3",
+   "RAM 8 GB",
+   "SSD 256 GB",
+   "Trọng lượng 1.2 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-g14s",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Air 13 OLED",
+  "sku": "LM-A13O",
+  "price": 23490000,
+  "specs": [
+   "CPU Core Ultra 7",
+   "RAM 16 GB",
+   "SSD 1024 GB",
+   "Trọng lượng 1.8 kg",
+   "Màn hình OLED"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Tặng balo và chuột không dây khi mua trong tháng 10/2025."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-a13o",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Pro 14 Business",
+  "sku": "LM-P14B",
+  "price": 32990000,
+  "specs": [
+   "CPU Core Ultra 7",
+   "RAM 32 GB",
+   "SSD 1024 GB",
+   "Trọng lượng 1.3 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 24,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-p14b",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Máy tính xách tay Lumio Go 15 Plus",
+  "sku": "LM-G15P",
+  "price": 13490000,
+  "specs": [
+   "CPU Core i5",
+   "RAM 16 GB",
+   "SSD 512 GB",
+   "Trọng lượng 1.3 kg",
+   "Màn hình IPS"
+  ],
+  "warranty": 12,
+  "conflict": null,
+  "notes": [
+   "Cài sẵn Windows 11 Home bản quyền.",
+   "Hỗ trợ nâng cấp RAM và SSD."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-LAPTOP",
+  "section": "lm-g15p",
+  "category": "Máy tính xách tay Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 22 inch Full HD 75Hz",
+  "sku": "LM-MH220",
+  "price": 2290000,
+  "specs": [
+   "Kích thước 22 inch",
+   "Độ phân giải Full HD",
+   "Tần số quét 75 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh220",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 24 inch Full HD 100Hz",
+  "sku": "LM-MH241",
+  "price": 2790000,
+  "specs": [
+   "Kích thước 24 inch",
+   "Độ phân giải Full HD",
+   "Tần số quét 100 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh241",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 24 inch Full HD 165Hz",
+  "sku": "LM-MH242",
+  "price": 3690000,
+  "specs": [
+   "Kích thước 24 inch",
+   "Độ phân giải Full HD",
+   "Tần số quét 165 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh242",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 27 inch 2K 75Hz",
+  "sku": "LM-MH273",
+  "price": 4990000,
+  "specs": [
+   "Kích thước 27 inch",
+   "Độ phân giải 2K",
+   "Tần số quét 75 Hz",
+   "Tấm nền VA"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh273",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 27 inch 2K 165Hz",
+  "sku": "LM-MH274",
+  "price": 6490000,
+  "specs": [
+   "Kích thước 27 inch",
+   "Độ phân giải 2K",
+   "Tần số quét 165 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh274",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 27 inch 4K 60Hz",
+  "sku": "LM-MH275",
+  "price": 7990000,
+  "specs": [
+   "Kích thước 27 inch",
+   "Độ phân giải 4K",
+   "Tần số quét 60 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh275",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 32 inch 4K 144Hz",
+  "sku": "LM-MH326",
+  "price": 12990000,
+  "specs": [
+   "Kích thước 32 inch",
+   "Độ phân giải 4K",
+   "Tần số quét 144 Hz",
+   "Tấm nền VA"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh326",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 34 inch UltraWide 2K 100Hz",
+  "sku": "LM-MH347",
+  "price": 10490000,
+  "specs": [
+   "Kích thước 34 inch",
+   "Độ phân giải UltraWide 2K",
+   "Tần số quét 100 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh347",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 27 inch 4K 144Hz",
+  "sku": "LM-MH278",
+  "price": 11490000,
+  "specs": [
+   "Kích thước 27 inch",
+   "Độ phân giải 4K",
+   "Tần số quét 144 Hz",
+   "Tấm nền VA"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh278",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Màn hình Lumio View 24 inch 2K 75Hz",
+  "sku": "LM-MH249",
+  "price": 3990000,
+  "specs": [
+   "Kích thước 24 inch",
+   "Độ phân giải 2K",
+   "Tần số quét 75 Hz",
+   "Tấm nền IPS"
+  ],
+  "warranty": 36,
+  "notes": [
+   "Đổi mới nếu có từ 1 điểm chết trong 30 ngày đầu theo cam kết của hãng Lumio."
+  ],
+  "brand": "Lumio",
+  "doc_id": "SP-MANHINH",
+  "section": "lm-mh249",
+  "category": "Màn hình máy tính Lumio"
+ },
+ {
+  "name": "Tai nghe Sora Buds Lite",
+  "sku": "SO-TN01",
+  "price": 690000,
+  "specs": [
+   "Kiểu nhét tai",
+   "Thời lượng pin 30 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Sora",
+  "notes": [
+   "Tai nghe nhét tai đã bóc niêm phong không áp dụng đổi trả đổi ý."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "so-tn01",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Sora Buds 3",
+  "sku": "SO-TN02",
+  "price": 1490000,
+  "specs": [
+   "Kiểu nhét tai",
+   "Thời lượng pin 30 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.3"
+  ],
+  "warranty": 12,
+  "brand": "Sora",
+  "notes": [
+   "Tai nghe nhét tai đã bóc niêm phong không áp dụng đổi trả đổi ý."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "so-tn02",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Sora Buds 3 Pro",
+  "sku": "SO-TN03",
+  "price": 2990000,
+  "specs": [
+   "Kiểu nhét tai",
+   "Thời lượng pin 8 giờ",
+   "Chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Sora",
+  "notes": [
+   "Tai nghe nhét tai đã bóc niêm phong không áp dụng đổi trả đổi ý."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "so-tn03",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Sora Wave Over-ear",
+  "sku": "SO-TN04",
+  "price": 3490000,
+  "specs": [
+   "Kiểu chụp tai",
+   "Thời lượng pin 8 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Sora",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "so-tn04",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Pods",
+  "sku": "NE-TN05",
+  "price": 890000,
+  "specs": [
+   "Kiểu nhét tai",
+   "Thời lượng pin 8 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Tai nghe nhét tai đã bóc niêm phong không áp dụng đổi trả đổi ý."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn05",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Pods ANC",
+  "sku": "NE-TN06",
+  "price": 1790000,
+  "specs": [
+   "Kiểu nhét tai",
+   "Thời lượng pin 40 giờ",
+   "Chống ồn chủ động",
+   "Bluetooth 5.3"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Tai nghe nhét tai đã bóc niêm phong không áp dụng đổi trả đổi ý."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn06",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Studio H1",
+  "sku": "NE-TN07",
+  "price": 2490000,
+  "specs": [
+   "Kiểu chụp tai",
+   "Thời lượng pin 8 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn07",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Studio H2",
+  "sku": "NE-TN08",
+  "price": 4290000,
+  "specs": [
+   "Kiểu chụp tai",
+   "Thời lượng pin 6 giờ",
+   "Chống ồn chủ động",
+   "Bluetooth 5.3"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn08",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Sport Neck",
+  "sku": "NE-TN09",
+  "price": 590000,
+  "specs": [
+   "Kiểu đeo cổ",
+   "Thời lượng pin 8 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn09",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Kids",
+  "sku": "NE-TN10",
+  "price": 490000,
+  "specs": [
+   "Kiểu chụp tai",
+   "Thời lượng pin 40 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.3"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn10",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Sora Buds Open",
+  "sku": "SO-TN11",
+  "price": 1990000,
+  "specs": [
+   "Kiểu mở",
+   "Thời lượng pin 30 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Sora",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "so-tn11",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Tai nghe Nexa Game G5",
+  "sku": "NE-TN12",
+  "price": 1290000,
+  "specs": [
+   "Kiểu chụp tai",
+   "Thời lượng pin 30 giờ",
+   "Không chống ồn chủ động",
+   "Bluetooth 5.4"
+  ],
+  "warranty": 12,
+  "brand": "Nexa",
+  "notes": [
+   "Kèm hộp đựng và cáp sạc USB-C."
+  ],
+  "doc_id": "SP-TAINGHE",
+  "section": "ne-tn12",
+  "category": "Tai nghe Sora và Nexa"
+ },
+ {
+  "name": "Loa Nexa Go Mini",
+  "sku": "NX-L01",
+  "price": 590000,
+  "specs": [
+   "Công suất 5 W",
+   "Chống nước IP67",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l01",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Go 2",
+  "sku": "NX-L02",
+  "price": 1190000,
+  "specs": [
+   "Công suất 10 W",
+   "Chống nước IPX4",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l02",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Boom 3",
+  "sku": "NX-L03",
+  "price": 2490000,
+  "specs": [
+   "Công suất 30 W",
+   "Chống nước không",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l03",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Party 100",
+  "sku": "NX-L04",
+  "price": 5990000,
+  "specs": [
+   "Công suất 100 W",
+   "Chống nước không",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l04",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Soundbar S2",
+  "sku": "NX-L05",
+  "price": 3990000,
+  "specs": [
+   "Công suất 120 W",
+   "Chống nước IP67",
+   "Kết nối Bluetooth, AUX, HDMI eARC"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l05",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Soundbar S5",
+  "sku": "NX-L06",
+  "price": 8990000,
+  "specs": [
+   "Công suất 400 W",
+   "Chống nước IPX4",
+   "Kết nối Bluetooth, AUX, HDMI eARC"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l06",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Home Smart",
+  "sku": "NX-L07",
+  "price": 1990000,
+  "specs": [
+   "Công suất 20 W",
+   "Chống nước IP67",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l07",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Karaoke K1",
+  "sku": "NX-L08",
+  "price": 4490000,
+  "specs": [
+   "Công suất 80 W",
+   "Chống nước IP67",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Kèm 2 micro không dây."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l08",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Boom 3 Pro",
+  "sku": "NX-L09",
+  "price": 3490000,
+  "specs": [
+   "Công suất 40 W",
+   "Chống nước IPX4",
+   "Kết nối Bluetooth, AUX"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l09",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Loa Nexa Soundbar S7 Atmos",
+  "sku": "NX-L10",
+  "price": 14990000,
+  "specs": [
+   "Công suất 600 W",
+   "Chống nước IPX5",
+   "Kết nối Bluetooth, AUX, HDMI eARC"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hỗ trợ ghép đôi 2 loa cùng dòng."
+  ],
+  "brand": "Nexa",
+  "doc_id": "SP-LOA",
+  "section": "nx-l10",
+  "category": "Loa và soundbar Nexa"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch 6",
+  "sku": "SR-W01",
+  "price": 5490000,
+  "specs": [
+   "Màn hình 1,9 inch AMOLED",
+   "Pin 14 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w01",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch 6 Classic",
+  "sku": "SR-W02",
+  "price": 7990000,
+  "specs": [
+   "Màn hình 1,5 inch AMOLED",
+   "Pin 14 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w02",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch Fit 3",
+  "sku": "SR-W03",
+  "price": 1990000,
+  "specs": [
+   "Màn hình 1,9 inch AMOLED",
+   "Pin 5 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w03",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch Kids",
+  "sku": "SR-W04",
+  "price": 1490000,
+  "specs": [
+   "Màn hình 1,5 inch AMOLED",
+   "Pin 7 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w04",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch Ultra",
+  "sku": "SR-W05",
+  "price": 13990000,
+  "specs": [
+   "Màn hình 1,4 inch AMOLED",
+   "Pin 14 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w05",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Band 9",
+  "sku": "SR-W06",
+  "price": 890000,
+  "specs": [
+   "Màn hình 1,5 inch AMOLED",
+   "Pin 5 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w06",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch 6 LTE",
+  "sku": "SR-W07",
+  "price": 6990000,
+  "specs": [
+   "Màn hình 1,5 inch AMOLED",
+   "Pin 14 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w07",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Đồng hồ thông minh Sora Watch Active",
+  "sku": "SR-W08",
+  "price": 3490000,
+  "specs": [
+   "Màn hình 1,5 inch AMOLED",
+   "Pin 14 ngày",
+   "Đo nhịp tim, SpO2",
+   "Chống nước 5 ATM"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Dây đeo là phụ kiện, bảo hành 6 tháng."
+  ],
+  "brand": "Sora",
+  "doc_id": "SP-DONGHO",
+  "section": "sr-w08",
+  "category": "Đồng hồ thông minh Sora"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 150 lít ngăn đá trên",
+  "sku": "KW-TL1500",
+  "price": 5490000,
+  "specs": [
+   "Dung tích 150 lít",
+   "Kiểu ngăn đá trên",
+   "Làm lạnh trực tiếp",
+   "Điện năng tiêu thụ khoảng 1.0 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl1500",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 180 lít ngăn đá trên",
+  "sku": "KW-TL1801",
+  "price": 6490000,
+  "specs": [
+   "Dung tích 180 lít",
+   "Kiểu ngăn đá trên",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.1 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl1801",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 230 lít ngăn đá trên",
+  "sku": "KW-TL2302",
+  "price": 7990000,
+  "specs": [
+   "Dung tích 230 lít",
+   "Kiểu ngăn đá trên",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.2 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl2302",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 260 lít ngăn đá dưới",
+  "sku": "KW-TL2603",
+  "price": 10490000,
+  "specs": [
+   "Dung tích 260 lít",
+   "Kiểu ngăn đá dưới",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.2 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl2603",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 320 lít ngăn đá dưới",
+  "sku": "KW-TL3204",
+  "price": 12990000,
+  "specs": [
+   "Dung tích 320 lít",
+   "Kiểu ngăn đá dưới",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.4 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl3204",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 380 lít ngăn đá dưới",
+  "sku": "KW-TL3805",
+  "price": 15490000,
+  "specs": [
+   "Dung tích 380 lít",
+   "Kiểu ngăn đá dưới",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.5 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl3805",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 450 lít side by side",
+  "sku": "KW-TL4506",
+  "price": 18990000,
+  "specs": [
+   "Dung tích 450 lít",
+   "Kiểu side by side",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.7 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl4506",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 520 lít side by side",
+  "sku": "KW-TL5207",
+  "price": 22990000,
+  "specs": [
+   "Dung tích 520 lít",
+   "Kiểu side by side",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.9 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl5207",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 560 lít multi door",
+  "sku": "KW-TL5608",
+  "price": 26990000,
+  "specs": [
+   "Dung tích 560 lít",
+   "Kiểu multi door",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 2.0 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl5608",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 640 lít multi door",
+  "sku": "KW-TL6409",
+  "price": 34990000,
+  "specs": [
+   "Dung tích 640 lít",
+   "Kiểu multi door",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 2.2 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl6409",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 90 lít mini",
+  "sku": "KW-TL9010",
+  "price": 3290000,
+  "specs": [
+   "Dung tích 90 lít",
+   "Kiểu mini",
+   "Làm lạnh trực tiếp",
+   "Điện năng tiêu thụ khoảng 0.8 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl9010",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Tủ lạnh Kiwa Inverter 400 lít ngăn đá dưới",
+  "sku": "KW-TL40011",
+  "price": 16990000,
+  "specs": [
+   "Dung tích 400 lít",
+   "Kiểu ngăn đá dưới",
+   "Công nghệ không đóng tuyết",
+   "Điện năng tiêu thụ khoảng 1.6 kWh/ngày"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "notes": [
+   "Được tặng máy lọc không khí Polar Mini khi mua trong chương trình Mừng Thu Sale."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-TULANH",
+  "section": "kw-tl40011",
+  "category": "Tủ lạnh Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa 1 HP",
+  "sku": "KW-DH01",
+  "price": 6990000,
+  "specs": [
+   "Công suất làm lạnh 9.000 BTU",
+   "Phù hợp phòng 15-20 m²",
+   "Không Inverter",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh01",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1 HP",
+  "sku": "KW-DH02",
+  "price": 7990000,
+  "specs": [
+   "Công suất làm lạnh 9.000 BTU",
+   "Phù hợp phòng 15-20 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh02",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1.5 HP",
+  "sku": "KW-DH03",
+  "price": 9490000,
+  "specs": [
+   "Công suất làm lạnh 12.000 BTU",
+   "Phù hợp phòng 20-26 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 10 năm",
+  "conflict": "C7-may-nen",
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh03",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa 1.5 HP",
+  "sku": "KW-DH04",
+  "price": 8490000,
+  "specs": [
+   "Công suất làm lạnh 12.000 BTU",
+   "Phù hợp phòng 20-26 m²",
+   "Không Inverter",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh04",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 2 HP",
+  "sku": "KW-DH05",
+  "price": 13990000,
+  "specs": [
+   "Công suất làm lạnh 18.000 BTU",
+   "Phù hợp phòng 30-40 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh05",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 2.5 HP",
+  "sku": "KW-DH06",
+  "price": 18990000,
+  "specs": [
+   "Công suất làm lạnh 24.000 BTU",
+   "Phù hợp phòng 40-53 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh06",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1 HP 2 chiều",
+  "sku": "KW-DH07",
+  "price": 9990000,
+  "specs": [
+   "Công suất làm lạnh 9.000 BTU",
+   "Phù hợp phòng 15-20 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh07",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1.5 HP 2 chiều",
+  "sku": "KW-DH08",
+  "price": 11990000,
+  "specs": [
+   "Công suất làm lạnh 12.000 BTU",
+   "Phù hợp phòng 20-26 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh08",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 2 HP 2 chiều",
+  "sku": "KW-DH09",
+  "price": 16490000,
+  "specs": [
+   "Công suất làm lạnh 18.000 BTU",
+   "Phù hợp phòng 30-40 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh09",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1 HP Wi-Fi",
+  "sku": "KW-DH10",
+  "price": 8990000,
+  "specs": [
+   "Công suất làm lạnh 9.000 BTU",
+   "Phù hợp phòng 15-20 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh10",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter 1.5 HP Wi-Fi",
+  "sku": "KW-DH11",
+  "price": 10990000,
+  "specs": [
+   "Công suất làm lạnh 12.000 BTU",
+   "Phù hợp phòng 20-26 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh11",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Điều hòa Kiwa Inverter Tủ đứng 4 HP",
+  "sku": "KW-DH12",
+  "price": 32990000,
+  "specs": [
+   "Công suất làm lạnh 36.000 BTU",
+   "Phù hợp phòng 60-80 m²",
+   "Inverter tiết kiệm điện",
+   "Gas R32"
+  ],
+  "warranty": 24,
+  "extra_warranty": "máy nén bảo hành 5 năm",
+  "conflict": null,
+  "notes": [
+   "Miễn phí công lắp đặt, gồm 3 mét ống đồng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-DIEUHOA",
+  "section": "kw-dh12",
+  "category": "Điều hòa Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa RO 9 lõi",
+  "sku": "KW-LN01",
+  "price": 5990000,
+  "specs": [
+   "9 lõi lọc",
+   "Công suất lọc 10 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln01",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa RO 10 lõi",
+  "sku": "KW-LN02",
+  "price": 6990000,
+  "specs": [
+   "10 lõi lọc",
+   "Công suất lọc 20 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln02",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa RO Nóng lạnh 10 lõi",
+  "sku": "KW-LN03",
+  "price": 9490000,
+  "specs": [
+   "10 lõi lọc",
+   "Công suất lọc 10 lít/giờ",
+   "Có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln03",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa Hydrogen 11 lõi",
+  "sku": "KW-LN04",
+  "price": 10990000,
+  "specs": [
+   "11 lõi lọc",
+   "Công suất lọc 15 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln04",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa Âm tủ bếp 8 lõi",
+  "sku": "KW-LN05",
+  "price": 7490000,
+  "specs": [
+   "8 lõi lọc",
+   "Công suất lọc 20 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln05",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa RO 7 lõi Mini",
+  "sku": "KW-LN06",
+  "price": 4490000,
+  "specs": [
+   "7 lõi lọc",
+   "Công suất lọc 15 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln06",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa Nóng lạnh Slim",
+  "sku": "KW-LN07",
+  "price": 8490000,
+  "specs": [
+   "9 lõi lọc",
+   "Công suất lọc 10 lít/giờ",
+   "Có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln07",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy lọc nước Kiwa Kiềm 12 lõi",
+  "sku": "KW-LN08",
+  "price": 12990000,
+  "specs": [
+   "12 lõi lọc",
+   "Công suất lọc 20 lít/giờ",
+   "Không có chế độ nóng lạnh"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lõi lọc là vật tư tiêu hao, không được bảo hành; nên thay lõi số 1 sau 6 tháng."
+  ],
+  "brand": "Kiwa",
+  "doc_id": "SP-MAYLOCNUOC",
+  "section": "kw-ln08",
+  "category": "Máy lọc nước Kiwa"
+ },
+ {
+  "name": "Máy giặt Vinto 8 kg cửa trên",
+  "sku": "VT-MG01",
+  "price": 5490000,
+  "specs": [
+   "Khối lượng giặt 8 kg",
+   "Kiểu cửa trên",
+   "Động cơ dây curoa",
+   "Tốc độ vắt 1400 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg01",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 9 kg cửa trên",
+  "sku": "VT-MG02",
+  "price": 6290000,
+  "specs": [
+   "Khối lượng giặt 9 kg",
+   "Kiểu cửa trên",
+   "Động cơ dây curoa",
+   "Tốc độ vắt 1200 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg02",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 10 kg cửa trên",
+  "sku": "VT-MG03",
+  "price": 7490000,
+  "specs": [
+   "Khối lượng giặt 10 kg",
+   "Kiểu cửa trên",
+   "Động cơ dây curoa",
+   "Tốc độ vắt 700 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg03",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 8 kg cửa trước",
+  "sku": "VT-MG04",
+  "price": 7990000,
+  "specs": [
+   "Khối lượng giặt 8 kg",
+   "Kiểu cửa trước",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 1200 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg04",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 9 kg cửa trước",
+  "sku": "VT-MG05",
+  "price": 8990000,
+  "specs": [
+   "Khối lượng giặt 9 kg",
+   "Kiểu cửa trước",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 700 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg05",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 10 kg cửa trước",
+  "sku": "VT-MG06",
+  "price": 10490000,
+  "specs": [
+   "Khối lượng giặt 10 kg",
+   "Kiểu cửa trước",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 700 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg06",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 12 kg cửa trước",
+  "sku": "VT-MG07",
+  "price": 13990000,
+  "specs": [
+   "Khối lượng giặt 12 kg",
+   "Kiểu cửa trước",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 1400 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg07",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 9 kg giặt sấy",
+  "sku": "VT-MG08",
+  "price": 15990000,
+  "specs": [
+   "Khối lượng giặt 9 kg",
+   "Kiểu giặt sấy",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 1400 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg08",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 11 kg giặt sấy",
+  "sku": "VT-MG09",
+  "price": 19990000,
+  "specs": [
+   "Khối lượng giặt 11 kg",
+   "Kiểu giặt sấy",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 700 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg09",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 14 kg cửa trên",
+  "sku": "VT-MG10",
+  "price": 9990000,
+  "specs": [
+   "Khối lượng giặt 14 kg",
+   "Kiểu cửa trên",
+   "Động cơ dây curoa",
+   "Tốc độ vắt 700 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": null,
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg10",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 8.5 kg cửa trước",
+  "sku": "VT-MG11",
+  "price": 8490000,
+  "specs": [
+   "Khối lượng giặt 8.5 kg",
+   "Kiểu cửa trước",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 1200 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg11",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy giặt Vinto 13 kg giặt sấy",
+  "sku": "VT-MG12",
+  "price": 23990000,
+  "specs": [
+   "Khối lượng giặt 13 kg",
+   "Kiểu giặt sấy",
+   "Động cơ truyền động trực tiếp",
+   "Tốc độ vắt 1400 vòng/phút"
+  ],
+  "warranty": 24,
+  "extra_warranty": "động cơ truyền động trực tiếp bảo hành 10 năm",
+  "notes": [
+   "Lắp đặt miễn phí; khi lắp lần đầu cần tháo 4 bu lông vận chuyển."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYGIAT",
+  "section": "vt-mg12",
+  "category": "Máy giặt Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 7 kg thông hơi",
+  "sku": "VT-MS01",
+  "price": 5990000,
+  "specs": [
+   "Khối lượng sấy 7 kg",
+   "Công nghệ sấy thông hơi"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms01",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 8 kg ngưng tụ",
+  "sku": "VT-MS02",
+  "price": 9490000,
+  "specs": [
+   "Khối lượng sấy 8 kg",
+   "Công nghệ sấy ngưng tụ"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms02",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 9 kg bơm nhiệt",
+  "sku": "VT-MS03",
+  "price": 15990000,
+  "specs": [
+   "Khối lượng sấy 9 kg",
+   "Công nghệ bơm nhiệt"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms03",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 10 kg bơm nhiệt",
+  "sku": "VT-MS04",
+  "price": 18490000,
+  "specs": [
+   "Khối lượng sấy 10 kg",
+   "Công nghệ bơm nhiệt"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms04",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 8 kg bơm nhiệt",
+  "sku": "VT-MS05",
+  "price": 13990000,
+  "specs": [
+   "Khối lượng sấy 8 kg",
+   "Công nghệ bơm nhiệt"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms05",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy sấy quần áo Vinto 7.5 kg ngưng tụ",
+  "sku": "VT-MS06",
+  "price": 8290000,
+  "specs": [
+   "Khối lượng sấy 7.5 kg",
+   "Công nghệ sấy ngưng tụ"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Nên vệ sinh lưới lọc xơ vải sau mỗi lần sấy."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYSAY",
+  "section": "vt-ms06",
+  "category": "Máy sấy quần áo Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto Mini 6 bộ",
+  "sku": "VT-RB01",
+  "price": 6990000,
+  "specs": [
+   "6 bộ chén đĩa",
+   "Kiểu để bàn",
+   "6 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb01",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto 12 bộ độc lập",
+  "sku": "VT-RB02",
+  "price": 11990000,
+  "specs": [
+   "12 bộ chén đĩa",
+   "Kiểu độc lập",
+   "7 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb02",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto 14 bộ độc lập",
+  "sku": "VT-RB03",
+  "price": 14490000,
+  "specs": [
+   "14 bộ chén đĩa",
+   "Kiểu độc lập",
+   "8 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp đặt miễn phí."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb03",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto 13 bộ âm tủ",
+  "sku": "VT-RB04",
+  "price": 16990000,
+  "specs": [
+   "13 bộ chén đĩa",
+   "Kiểu âm tủ toàn phần",
+   "6 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp máy âm tủ tính phí 300.000 đồng."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb04",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto 15 bộ âm tủ sấy khí nóng",
+  "sku": "VT-RB05",
+  "price": 21990000,
+  "specs": [
+   "15 bộ chén đĩa",
+   "Kiểu âm tủ toàn phần",
+   "6 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp máy âm tủ tính phí 300.000 đồng."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb05",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Máy rửa bát Vinto 10 bộ bán âm",
+  "sku": "VT-RB06",
+  "price": 12490000,
+  "specs": [
+   "10 bộ chén đĩa",
+   "Kiểu bán âm tủ",
+   "6 chương trình rửa"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Lắp máy âm tủ tính phí 300.000 đồng."
+  ],
+  "brand": "Vinto",
+  "doc_id": "SP-MAYRUABAT",
+  "section": "vt-rb06",
+  "category": "Máy rửa bát Vinto"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.0 lít cơ",
+  "sku": "HR-NC01",
+  "price": 590000,
+  "specs": [
+   "Dung tích 1.0 lít",
+   "Công nghệ nấu cơ",
+   "Lòng nồi phủ chống dính 5 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc01",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.8 lít cơ",
+  "sku": "HR-NC02",
+  "price": 790000,
+  "specs": [
+   "Dung tích 1.8 lít",
+   "Công nghệ nấu cơ",
+   "Lòng nồi phủ chống dính 5 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc02",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.8 lít điện tử",
+  "sku": "HR-NC03",
+  "price": 1490000,
+  "specs": [
+   "Dung tích 1.8 lít",
+   "Công nghệ nấu điện tử",
+   "Lòng nồi phủ chống dính 2 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc03",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.5 lít cao tần",
+  "sku": "HR-NC04",
+  "price": 2990000,
+  "specs": [
+   "Dung tích 1.5 lít",
+   "Công nghệ nấu cao tần",
+   "Lòng nồi phủ chống dính 5 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc04",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.8 lít cao tần",
+  "sku": "HR-NC05",
+  "price": 3990000,
+  "specs": [
+   "Dung tích 1.8 lít",
+   "Công nghệ nấu cao tần",
+   "Lòng nồi phủ chống dính 5 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc05",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.0 lít mini",
+  "sku": "HR-NC06",
+  "price": 690000,
+  "specs": [
+   "Dung tích 1.0 lít",
+   "Công nghệ nấu mini",
+   "Lòng nồi phủ chống dính 2 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc06",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 1.8 lít áp suất",
+  "sku": "HR-NC07",
+  "price": 4990000,
+  "specs": [
+   "Dung tích 1.8 lít",
+   "Công nghệ nấu áp suất",
+   "Lòng nồi phủ chống dính 2 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc07",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Nồi cơm điện Haru 2.2 lít điện tử",
+  "sku": "HR-NC08",
+  "price": 1890000,
+  "specs": [
+   "Dung tích 2.2 lít",
+   "Công nghệ nấu điện tử",
+   "Lòng nồi phủ chống dính 5 lớp"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Lòng nồi bị trầy xước do dùng muỗng kim loại không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-NOICOM",
+  "section": "hr-nc08",
+  "category": "Nồi cơm điện Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 20 lít cơ",
+  "sku": "HR-LV01",
+  "price": 1490000,
+  "specs": [
+   "Dung tích 20 lít",
+   "Chức năng cơ",
+   "Công suất vi sóng 700 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv01",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 20 lít điện tử",
+  "sku": "HR-LV02",
+  "price": 1890000,
+  "specs": [
+   "Dung tích 20 lít",
+   "Chức năng điện tử",
+   "Công suất vi sóng 800 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv02",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 23 lít có nướng",
+  "sku": "HR-LV03",
+  "price": 2490000,
+  "specs": [
+   "Dung tích 23 lít",
+   "Chức năng có nướng",
+   "Công suất vi sóng 700 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv03",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 25 lít có nướng",
+  "sku": "HR-LV04",
+  "price": 2990000,
+  "specs": [
+   "Dung tích 25 lít",
+   "Chức năng có nướng",
+   "Công suất vi sóng 800 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv04",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 28 lít đối lưu",
+  "sku": "HR-LV05",
+  "price": 4490000,
+  "specs": [
+   "Dung tích 28 lít",
+   "Chức năng đối lưu",
+   "Công suất vi sóng 1000 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv05",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 32 lít đối lưu",
+  "sku": "HR-LV06",
+  "price": 5990000,
+  "specs": [
+   "Dung tích 32 lít",
+   "Chức năng đối lưu",
+   "Công suất vi sóng 1000 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv06",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 20 lít mini",
+  "sku": "HR-LV07",
+  "price": 1290000,
+  "specs": [
+   "Dung tích 20 lít",
+   "Chức năng mini",
+   "Công suất vi sóng 900 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv07",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Lò vi sóng Haru 25 lít inverter",
+  "sku": "HR-LV08",
+  "price": 3790000,
+  "specs": [
+   "Dung tích 25 lít",
+   "Chức năng inverter",
+   "Công suất vi sóng 800 W"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Không dùng hộp kim loại trong chế độ vi sóng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-LOVISONG",
+  "section": "hr-lv08",
+  "category": "Lò vi sóng Haru"
+ },
+ {
+  "name": "Bếp từ Haru đơn 2000W",
+  "sku": "HR-BT01",
+  "price": 990000,
+  "specs": [
+   "Kiểu bếp đơn 2000W",
+   "Mặt kính ceramic",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt01",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đôi 4000W",
+  "sku": "HR-BT02",
+  "price": 6990000,
+  "specs": [
+   "Kiểu bếp đôi 4000W",
+   "Mặt kính Schott Ceran",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt02",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đôi inverter",
+  "sku": "HR-BT03",
+  "price": 8990000,
+  "specs": [
+   "Kiểu bếp đôi inverter",
+   "Mặt kính ceramic",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt03",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đôi từ hồng ngoại",
+  "sku": "HR-BT04",
+  "price": 7490000,
+  "specs": [
+   "Kiểu bếp đôi từ hồng ngoại",
+   "Mặt kính Schott Ceran",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt04",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru ba vùng nấu",
+  "sku": "HR-BT05",
+  "price": 12990000,
+  "specs": [
+   "Kiểu bếp ba vùng nấu",
+   "Mặt kính Schott Ceran",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt05",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đơn cảm ứng",
+  "sku": "HR-BT06",
+  "price": 1290000,
+  "specs": [
+   "Kiểu bếp đơn cảm ứng",
+   "Mặt kính Schott Ceran",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt06",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đôi nhập khẩu",
+  "sku": "HR-BT07",
+  "price": 15990000,
+  "specs": [
+   "Kiểu bếp đôi nhập khẩu",
+   "Mặt kính ceramic",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt07",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Bếp từ Haru đôi lắp âm",
+  "sku": "HR-BT08",
+  "price": 9490000,
+  "specs": [
+   "Kiểu bếp đôi lắp âm",
+   "Mặt kính ceramic",
+   "Khóa trẻ em, hẹn giờ"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Mâm từ bảo hành 36 tháng theo chính sách hãng Haru."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-BEPTU",
+  "section": "hr-bt08",
+  "category": "Bếp từ Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru Espresso Mini",
+  "sku": "HR-CF01",
+  "price": 2490000,
+  "specs": [
+   "Kiểu máy Espresso Mini",
+   "Bình chứa nước 1.2 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf01",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru Espresso Pro 20 bar",
+  "sku": "HR-CF02",
+  "price": 5990000,
+  "specs": [
+   "Kiểu máy Espresso Pro 20 bar",
+   "Bình chứa nước 1.0 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf02",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru tự động Barista",
+  "sku": "HR-CF03",
+  "price": 14990000,
+  "specs": [
+   "Kiểu máy tự động Barista",
+   "Bình chứa nước 1.0 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf03",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru viên nén",
+  "sku": "HR-CF04",
+  "price": 2990000,
+  "specs": [
+   "Kiểu máy viên nén",
+   "Bình chứa nước 1.5 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf04",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru pha phin điện",
+  "sku": "HR-CF05",
+  "price": 790000,
+  "specs": [
+   "Kiểu máy pha phin điện",
+   "Bình chứa nước 1.5 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf05",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Máy pha cà phê Haru Espresso có máy xay",
+  "sku": "HR-CF06",
+  "price": 9490000,
+  "specs": [
+   "Kiểu máy Espresso có máy xay",
+   "Bình chứa nước 1.8 lít"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Cần vệ sinh cặn canxi mỗi 3 tháng; hỏng do cặn canxi không được bảo hành."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-MAYPHACAFE",
+  "section": "hr-cf06",
+  "category": "Máy pha cà phê Haru"
+ },
+ {
+  "name": "Quạt Haru đứng 5 cánh",
+  "sku": "HR-QT01",
+  "price": 690000,
+  "specs": [
+   "Kiểu quạt đứng 5 cánh",
+   "Công suất 35 W",
+   "Có điều khiển từ xa"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt01",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru đứng DC inverter",
+  "sku": "HR-QT02",
+  "price": 1990000,
+  "specs": [
+   "Kiểu quạt đứng DC inverter",
+   "Công suất 35 W",
+   "Không có điều khiển"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt02",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru treo tường",
+  "sku": "HR-QT03",
+  "price": 590000,
+  "specs": [
+   "Kiểu quạt treo tường",
+   "Công suất 45 W",
+   "Có điều khiển từ xa"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt03",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru tháp",
+  "sku": "HR-QT04",
+  "price": 1490000,
+  "specs": [
+   "Kiểu quạt tháp",
+   "Công suất 55 W",
+   "Không có điều khiển"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt04",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru điều hòa hơi nước",
+  "sku": "HR-QT05",
+  "price": 2990000,
+  "specs": [
+   "Kiểu quạt điều hòa hơi nước",
+   "Công suất 45 W",
+   "Không có điều khiển"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt05",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru bàn mini",
+  "sku": "HR-QT06",
+  "price": 390000,
+  "specs": [
+   "Kiểu quạt bàn mini",
+   "Công suất 35 W",
+   "Có điều khiển từ xa"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt06",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru trần 5 cánh có đèn",
+  "sku": "HR-QT07",
+  "price": 3490000,
+  "specs": [
+   "Kiểu quạt trần 5 cánh có đèn",
+   "Công suất 45 W",
+   "Không có điều khiển"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt07",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Quạt Haru sạc tích điện",
+  "sku": "HR-QT08",
+  "price": 1190000,
+  "specs": [
+   "Kiểu quạt sạc tích điện",
+   "Công suất 55 W",
+   "Có điều khiển từ xa"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Quạt sạc tích điện: pin bảo hành 6 tháng."
+  ],
+  "brand": "Haru",
+  "doc_id": "SP-QUAT",
+  "section": "hr-qt08",
+  "category": "Quạt điện Haru"
+ },
+ {
+  "name": "Máy lọc không khí Polar Mini",
+  "sku": "PL-KK01",
+  "price": 1290000,
+  "specs": [
+   "Phòng đến 18 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk01",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Air 30",
+  "sku": "PL-KK02",
+  "price": 2990000,
+  "specs": [
+   "Phòng đến 30 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk02",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Air 45",
+  "sku": "PL-KK03",
+  "price": 4490000,
+  "specs": [
+   "Phòng đến 45 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk03",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Air 60 Wi-Fi",
+  "sku": "PL-KK04",
+  "price": 6990000,
+  "specs": [
+   "Phòng đến 60 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk04",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Air 80 Pro",
+  "sku": "PL-KK05",
+  "price": 9990000,
+  "specs": [
+   "Phòng đến 80 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk05",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Humid 40 tạo ẩm",
+  "sku": "PL-KK06",
+  "price": 5490000,
+  "specs": [
+   "Phòng đến 40 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk06",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Car mini",
+  "sku": "PL-KK07",
+  "price": 890000,
+  "specs": [
+   "Phòng đến 5 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk07",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Máy lọc không khí Polar Air 100 Max",
+  "sku": "PL-KK08",
+  "price": 13990000,
+  "specs": [
+   "Phòng đến 100 m²",
+   "Màng lọc HEPA H13",
+   "Cảm biến bụi PM2.5"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Màng lọc HEPA là vật tư tiêu hao, không được bảo hành; thay sau 12 tháng."
+  ],
+  "brand": "Polar",
+  "doc_id": "SP-MAYLOCKK",
+  "section": "pl-kk08",
+  "category": "Máy lọc không khí Polar"
+ },
+ {
+  "name": "Robot hút bụi Zenko S1",
+  "sku": "ZK-RB01",
+  "price": 2990000,
+  "specs": [
+   "Lực hút 2500 Pa",
+   "Không lau nhà",
+   "Điều hướng con quay"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb01",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko S2 Mop",
+  "sku": "ZK-RB02",
+  "price": 4990000,
+  "specs": [
+   "Lực hút 4000 Pa",
+   "Lau nhà",
+   "Điều hướng con quay"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb02",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko X5 Pro",
+  "sku": "ZK-RB03",
+  "price": 9990000,
+  "specs": [
+   "Lực hút 6000 Pa",
+   "Lau nhà",
+   "Bản đồ LiDAR"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb03",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko X7 Pro tự giặt giẻ",
+  "sku": "ZK-RB04",
+  "price": 15990000,
+  "specs": [
+   "Lực hút 8000 Pa",
+   "Lau nhà",
+   "Bản đồ LiDAR"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb04",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko S2 Lite",
+  "sku": "ZK-RB05",
+  "price": 3690000,
+  "specs": [
+   "Lực hút 3000 Pa",
+   "Không lau nhà",
+   "Điều hướng con quay"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb05",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko X5 Mop",
+  "sku": "ZK-RB06",
+  "price": 7490000,
+  "specs": [
+   "Lực hút 5000 Pa",
+   "Lau nhà",
+   "Bản đồ LiDAR"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb06",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko X9 Ultra",
+  "sku": "ZK-RB07",
+  "price": 24990000,
+  "specs": [
+   "Lực hút 12000 Pa",
+   "Không lau nhà",
+   "Bản đồ LiDAR"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb07",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Robot hút bụi Zenko Mini M1",
+  "sku": "ZK-RB08",
+  "price": 2290000,
+  "specs": [
+   "Lực hút 2000 Pa",
+   "Không lau nhà",
+   "Điều hướng con quay"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Pin bảo hành 6 tháng; chổi và giẻ lau là vật tư tiêu hao."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-ROBOT",
+  "section": "zk-rb08",
+  "category": "Robot hút bụi Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko C2 trong nhà",
+  "sku": "ZK-CM01",
+  "price": 590000,
+  "specs": [
+   "Độ phân giải 2 MP",
+   "Trong nhà, xoay 360 độ",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm01",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko C3 trong nhà",
+  "sku": "ZK-CM02",
+  "price": 790000,
+  "specs": [
+   "Độ phân giải 3 MP",
+   "Trong nhà, xoay 360 độ",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm02",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko C5 trong nhà 2K",
+  "sku": "ZK-CM03",
+  "price": 1190000,
+  "specs": [
+   "Độ phân giải 5 MP",
+   "Trong nhà, xoay 360 độ",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm03",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko O3 ngoài trời",
+  "sku": "ZK-CM04",
+  "price": 1290000,
+  "specs": [
+   "Độ phân giải 3 MP",
+   "Ngoài trời chống nước IP66",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm04",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko O5 ngoài trời 2K",
+  "sku": "ZK-CM05",
+  "price": 1690000,
+  "specs": [
+   "Độ phân giải 5 MP",
+   "Ngoài trời chống nước IP66",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm05",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko O8 ngoài trời 4K",
+  "sku": "ZK-CM06",
+  "price": 2490000,
+  "specs": [
+   "Độ phân giải 8 MP",
+   "Ngoài trời chống nước IP66",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm06",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko D1 chuông cửa",
+  "sku": "ZK-CM07",
+  "price": 1490000,
+  "specs": [
+   "Độ phân giải 2 MP",
+   "Trong nhà, xoay 360 độ",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm07",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Camera an ninh Zenko P4 pin năng lượng mặt trời ngoài trời",
+  "sku": "ZK-CM08",
+  "price": 2990000,
+  "specs": [
+   "Độ phân giải 4 MP",
+   "Ngoài trời chống nước IP66",
+   "Hỗ trợ thẻ nhớ đến 256 GB"
+  ],
+  "warranty": 24,
+  "notes": [
+   "Gói lưu trữ đám mây tính phí riêng, không bao gồm trong giá máy."
+  ],
+  "brand": "Zenko",
+  "doc_id": "SP-CAMERA",
+  "section": "zk-cm08",
+  "category": "Camera an ninh Zenko"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro 15 lít vuông",
+  "sku": "FR-BN01",
+  "price": 2290000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 15 lít",
+   "Kiểu gián tiếp",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn01",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro 20 lít vuông",
+  "sku": "FR-BN02",
+  "price": 2590000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 20 lít",
+   "Kiểu gián tiếp",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn02",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro 30 lít ngang",
+  "sku": "FR-BN03",
+  "price": 3190000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 30 lít",
+   "Kiểu gián tiếp",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn03",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro Trực tiếp 4500W",
+  "sku": "FR-BN04",
+  "price": 2990000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 0 lít",
+   "Kiểu trực tiếp",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn04",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro Trực tiếp có bơm",
+  "sku": "FR-BN05",
+  "price": 3790000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 0 lít",
+   "Kiểu trực tiếp có bơm trợ lực",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn05",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Bình nóng lạnh Ferro 20 lít Wi-Fi",
+  "sku": "FR-BN06",
+  "price": 3490000,
+  "brand": "Ferro",
+  "specs": [
+   "Dung tích 20 lít",
+   "Kiểu gián tiếp",
+   "Chống giật ELCB"
+  ],
+  "warranty": 24,
+  "extra_warranty": "ruột bình bảo hành 7 năm",
+  "notes": [
+   "Phí lắp đặt 250.000 đồng, chưa gồm vật tư."
+  ],
+  "doc_id": "SP-BINHNONGLANH",
+  "section": "fr-bn06",
+  "category": "Bình nóng lạnh Ferro"
+ },
+ {
+  "name": "Máy in Printo L110 laser trắng đen",
+  "sku": "PT-MI01",
+  "price": 2490000,
+  "brand": "Printo",
+  "specs": [
+   "Loại laser trắng đen",
+   "Tốc độ 20 trang/phút",
+   "Kết nối USB"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi01",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Máy in Printo L210 Wi-Fi",
+  "sku": "PT-MI02",
+  "price": 3990000,
+  "brand": "Printo",
+  "specs": [
+   "Loại laser trắng đen",
+   "Tốc độ 30 trang/phút",
+   "Kết nối Wi-Fi"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi02",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Máy in Printo M300 đa năng Wi-Fi",
+  "sku": "PT-MI03",
+  "price": 6490000,
+  "brand": "Printo",
+  "specs": [
+   "Loại laser đa năng",
+   "Tốc độ 30 trang/phút",
+   "Kết nối Wi-Fi"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi03",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Máy in Printo C200 phun màu",
+  "sku": "PT-MI04",
+  "price": 3290000,
+  "brand": "Printo",
+  "specs": [
+   "Loại phun màu",
+   "Tốc độ 10 trang/phút",
+   "Kết nối USB"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi04",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Máy in Printo C400 phun màu Wi-Fi",
+  "sku": "PT-MI05",
+  "price": 4990000,
+  "brand": "Printo",
+  "specs": [
+   "Loại phun màu",
+   "Tốc độ 15 trang/phút",
+   "Kết nối Wi-Fi"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi05",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Máy in Printo P50 in nhiệt",
+  "sku": "PT-MI06",
+  "price": 1990000,
+  "brand": "Printo",
+  "specs": [
+   "Loại in nhiệt",
+   "Tốc độ 40 trang/phút",
+   "Kết nối USB"
+  ],
+  "warranty": 12,
+  "notes": [
+   "Hộp mực đi kèm in được khoảng 700 trang; mực là vật tư tiêu hao."
+  ],
+  "doc_id": "SP-MAYIN",
+  "section": "pt-mi06",
+  "category": "Máy in Printo"
+ },
+ {
+  "name": "Phụ kiện Sạc nhanh Sora 25W",
+  "sku": "PK-01",
+  "price": 390000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-01",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Sạc nhanh Sora 45W",
+  "sku": "PK-02",
+  "price": 690000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-02",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Cáp USB-C Sora 1m",
+  "sku": "PK-03",
+  "price": 190000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-03",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Cáp USB-C Sora 2m",
+  "sku": "PK-04",
+  "price": 290000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-04",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Sạc dự phòng Nexa 10.000 mAh",
+  "sku": "PK-05",
+  "price": 490000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-05",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Sạc dự phòng Nexa 20.000 mAh",
+  "sku": "PK-06",
+  "price": 790000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-06",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Ốp lưng Sora Nova 8",
+  "sku": "PK-07",
+  "price": 290000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-07",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Chuột không dây Lumio M1",
+  "sku": "PK-08",
+  "price": 290000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-08",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Bàn phím không dây Lumio K1",
+  "sku": "PK-09",
+  "price": 590000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-09",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Bút cảm ứng Sora Pen",
+  "sku": "PK-10",
+  "price": 1490000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-10",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Giá treo tivi Sora 32-55 inch",
+  "sku": "PK-11",
+  "price": 250000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-11",
+  "category": "Phụ kiện"
+ },
+ {
+  "name": "Phụ kiện Giá treo tivi Sora 55-85 inch",
+  "sku": "PK-12",
+  "price": 450000,
+  "specs": [
+   "Hàng chính hãng"
+  ],
+  "warranty": 6,
+  "notes": [
+   "Phụ kiện bảo hành 6 tháng, 1 đổi 1 trong thời hạn bảo hành nếu lỗi nhà sản xuất."
+  ],
+  "brand": "nhiều hãng",
+  "doc_id": "SP-PHUKIEN",
+  "section": "pk-12",
+  "category": "Phụ kiện"
+ }
+]

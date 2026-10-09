@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cache/
+data/index/
+reports/runs_limit*/
+.pytest_cache/
+*.egg-info/
+.vscode/
+# raw per-ticket outputs (summary.md, metrics.json, per_ticket.csv, comparison.png are kept)
+reports/runs/*.jsonl

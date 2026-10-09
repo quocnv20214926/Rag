@@ -1,0 +1,14 @@
+# core
+openai>=1.40
+numpy>=1.26
+# local reranker (BAAI/bge-reranker-v2-m3). Set RERANKER=llm or none to skip torch.
+sentence-transformers>=3.0
+# API + UI
+fastapi>=0.110
+uvicorn[standard]>=0.29
+streamlit>=1.35
+requests>=2.31
+# reports + tests
+matplotlib>=3.8
+pytest>=8.0
+httpx>=0.27

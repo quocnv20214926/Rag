@@ -1,0 +1,31 @@
+name: rag-cskh
+x-app: &app
+  build: .
+  image: rag-cskh:local
+  env_file: .env
+  volumes:
+    - ./data/index:/app/data/index          # index (built by the "index" service)
+    - ./.cache:/app/.cache                  # embedding + LLM cache
+    - ./reports:/app/reports
+    - hf_models:/models                     # reranker weights, downloaded on first run
+services:
+  index:
+    <<: *app
+    command: [ python, -m, rag_cskh.cli, index ]
+    profiles: [ tools ]
+  api:
+    <<: *app
+    ports:
+      - 127.0.0.1:8000:8000
+    restart: unless-stopped
+  ui:
+    <<: *app
+    environment:
+      API_URL: http://api:8000
+    command: [ streamlit, run, app/streamlit_app.py, --server.port=8501, --server.address=0.0.0.0 ]
+    ports:
+      - 127.0.0.1:8501:8501
+    depends_on: [ api ]
+    restart: unless-stopped
+volumes:
+  hf_models:
